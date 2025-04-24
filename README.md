@@ -1,5 +1,7 @@
 # CP1-EdgeComputing
 
+**INTEGRANTES:** Felipe Santos Nunes RM563919
+
 # 📝 README – Sistema de Monitoramento de Luminosidade para Vinheria Agnello
 
 ## 📌 Descrição do Projeto
